@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Amy!</h1>
-<h3 align="center">A ✨ front end developer ✨ from California </h3>
+<h3 align="center">A Front End Developer at <a href="https://codethedream.org/ctd-labs-apprenticeship/" target="blank">Code the Dream Labs</a></h3>
 
 - 💻 I’m currently working on **updating my projects!**
 
