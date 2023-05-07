@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋🏽 I'm Amy!</h1>
 <h3 align="center">A Front End Developer at <a href="https://codethedream.org/ctd-labs-apprenticeship/" target="blank">Code the Dream Labs</a></h3>
 
-- 💻 I’m currently working on **updating my projects!**
-
-- 🌱 I’m currently learning **Coursera: Google UX Design**
-
-- 👩🏾‍💻 All of my projects are available at [amyjensandoval.com](amyjensandoval.com)
+- 💻 I’m currently working on **building a personal project!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
